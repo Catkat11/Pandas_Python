@@ -5,3 +5,6 @@ Projekt "Seaborn_and_Linear_Regression" wykorzystuje biblioteki pandas, matplotl
 
 
 Projekt "birthday_wisher" wykorzystuje bibliotekę pandas do manipulacji danymi, datetime do pracy z datami, random do losowania, oraz smtplib do wysyłania e-maili. Działa na zasadzie sprawdzania dziennych urodzin z pliku CSV i wysyłania spersonalizowanych wiadomości e-mail z życzeniami.
+
+
+Projekt "fiszki_hiszpanski" to aplikacja GUI do nauki słówek hiszpańskich, korzystająca z Tkinter do interfejsu, Pandas do zarządzania danymi CSV i innych modułów do obsługi plików graficznych i danych.
