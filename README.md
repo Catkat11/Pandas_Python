@@ -11,3 +11,6 @@ Projekt "fiszki_hiszpanski" wykorzystuje bilbioteki Pandas i Tkinter, to aplikac
 
 
 Projekt "us_states_game" wykorzystuje biblioteki Turtle i Pandas do interaktywnego odgadywania nazw stanów USA na mapie.
+
+
+Projekt "Training_with_pandas" wykorzystuje bibliotekę pandas, analizuje płace początkowe i środkowe dla różnych kierunków studiów.
