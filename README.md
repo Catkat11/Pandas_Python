@@ -17,3 +17,6 @@ Projekt "Training_with_pandas" wykorzystuje bibliotekę pandas, analizuje płace
 
 
 Projekt "Google_Trends_and_Data_Visualisation" wykorzystuje biblioteki pandas i matplotlib do analizy danych z Google Trends, ceny akcji Tesli, ceny Bitcoin oraz zasiłków dla bezrobotnych w celu eksploracji i wizualizacji zależności między nimi.
+
+
+Projekt "Programming_Languages" używa bibliotek pandas i matplotlib do analizy i wizualizacji trendów popularności języków programowania na Stack Overflow w czasie.
