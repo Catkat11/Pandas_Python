@@ -14,3 +14,6 @@ Projekt "us_states_game" wykorzystuje biblioteki Turtle i Pandas do interaktywne
 
 
 Projekt "Training_with_pandas" wykorzystuje bibliotekę pandas, analizuje płace początkowe i środkowe dla różnych kierunków studiów.
+
+
+Projekt "Google_Trends_and_Data_Visualisation" wykorzystuje biblioteki pandas i matplotlib do analizy danych z Google Trends, ceny akcji Tesli, ceny Bitcoin oraz zasiłków dla bezrobotnych w celu eksploracji i wizualizacji zależności między nimi.
