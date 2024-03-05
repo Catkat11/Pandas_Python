@@ -23,3 +23,6 @@ Projekt "Programming_Languages" używa bibliotek pandas i matplotlib do analizy 
 
 
 Projekt "Google_Play_Store_App_Analytics" wykorzystuje biblioteki pandas do przetwarzania danych i plotly do wizualizacji. Jego celem jest analiza tysięcy aplikacji w sklepie Google Play w celu wydobycia wglądu w trendy, popularność kategorii aplikacji, strategie cenowe i inne kluczowe informacje.
+
+
+Projekt "Lego_Analysis" wykorzystuje biblioteki pandas, matplotlib. Jego celem jest analiza danych dotyczących zestawów LEGO, w tym badanie różnych aspektów, takich jak historia firmy LEGO, liczba kolorów, tematów zestawów, trendów w czasie oraz zależności między liczbą części a czasem.
